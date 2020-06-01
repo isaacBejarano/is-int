@@ -4,7 +4,7 @@ isInt()
 
 # Descripion
 
-A function to checks if a value is parseable to integer
+A function to check if a value is parseable to integer
 
 # Time
 
