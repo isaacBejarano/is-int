@@ -1,0 +1,26 @@
+{
+	"name": "is-int",
+	"version": "1.0.0",
+	"description": "checks if a value is parseable to integer",
+	"main": "is-int.js",
+	"scripts": {
+		"test": "jest --coverage",
+		"test:watch": "jest --coverage --watchAll"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/isaacBejarano/is-int.git"
+	},
+	"author": "Isaac Bejarano",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/isaacBejarano/is-int/issues"
+	},
+	"homepage": "https://github.com/isaacBejarano/is-int#readme",
+	"devDependencies": {
+		"jest": "^26.0.1"
+	},
+	"dependencies": {
+		"@types/jest": "^25.2.3"
+	}
+}
