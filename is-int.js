@@ -7,4 +7,4 @@ function isInt(x) {
 }
 
 // TEST
-module.exports = { isInt }; // uncomment to enable JEST
+// module.exports = { isInt }; // uncomment to enable JEST
